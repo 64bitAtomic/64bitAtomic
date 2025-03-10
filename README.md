@@ -10,7 +10,7 @@ Hi there!
 </details>
 
 <details> 
-  <summary>👯 I’m looking to collaborate on/summary>
+  <summary>👯 I’m looking to collaborate on</summary>
 
 - Open-source developer tools and learning platforms.<br>
 - AI-driven image generation and automation projects.<br>
