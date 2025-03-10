@@ -5,8 +5,8 @@ Hi there!
 
 <details> 
   <summary>🔭 I’m currently working on</summary>
- ByteForge – A structured programming tutorial platform with course-based learning and Markdown-powered content in a dark theme UI, built with React.js, Node.js, Express.js, and MongoDB.<br>
- Hippo AI – An AI-powered image generation platform using React (Vite), Express.js, MongoDB, EdenAI, and Cloudinary.<br>
+* ByteForge – A structured programming tutorial platform with course-based learning and Markdown-powered content in a dark theme UI, built with React.js, Node.js, Express.js, and MongoDB.<br>
+* Hippo AI – An AI-powered image generation platform using React (Vite), Express.js, MongoDB, EdenAI, and Cloudinary.<br>
 </details>
 
 <details> 
