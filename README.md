@@ -22,12 +22,28 @@ Hi there!
 - Optimizing Hippo AI for better performance and scalability.<br>
 </details> 
 
-🌱 I’m currently learning
-Advanced React & Next.js for better performance and SEO.<br>
-AI/ML concepts to integrate smarter automation into my projects.<br>
-Database optimization techniques for scalable applications.<br>
 
-💬 Ask me about<br>Web development with MERN stack.<br>Building structured programming tutorials.<br>AI-powered applications and image generation.<br>⚡ Fun fact<br>I started coding as a hobby and ended up building full-fledged platforms 🚀.<br>I enjoy tweaking dark-themed UIs to perfection 🌑.
+<details> 
+  <summary>🌱 I’m currently learning</summary>
+
+- Advanced React & Next.js for better performance and SEO.<br>
+- AI/ML concepts to integrate smarter automation into my projects.<br>
+- Database optimization techniques for scalable applications.<br>
+</details>
+
+
+<details> 
+  <summary>💬 Ask me about</summary>
+- Web development with MERN stack.<br>
+- Building structured programming tutorials.<br>
+- AI-powered applications and image generation.<br>
+</details>
+
+<details> 
+  <summary>⚡ Fun fact</summary>
+- I started coding as a hobby and ended up building full-fledged platforms 🚀.<br>
+- I enjoy tweaking dark-themed UIs to perfection 🌑.
+</details>
 
 ## 🌐 Socials:
 
