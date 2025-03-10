@@ -5,8 +5,8 @@ Hi there!
 
 <details> 
   <summary>🔭 I’m currently working on</summary>
-<br>ByteForge – A structured programming tutorial platform with course-based learning and Markdown-powered content in a dark theme UI, built with React.js, Node.js, Express.js, and MongoDB.<br>
-Hippo AI – An AI-powered image generation platform using React (Vite), Express.js, MongoDB, EdenAI, and Cloudinary.<br>
+- <br>ByteForge – A structured programming tutorial platform with course-based learning and Markdown-powered content in a dark theme UI, built with React.js, Node.js, Express.js, and MongoDB.<br>
+- Hippo AI – An AI-powered image generation platform using React (Vite), Express.js, MongoDB, EdenAI, and Cloudinary.<br>
 </details>
 👯 I’m looking to collaborate on<br>Open-source developer tools and learning platforms.<br>AI-driven image generation and automation projects.<br>🤝 I’m looking for help with<br>Improving ByteForge with more interactive coding exercises.<br>Optimizing Hippo AI for better performance and scalability.<br>🌱 I’m currently learning<br>Advanced React & Next.js for better performance and SEO.<br>AI/ML concepts to integrate smarter automation into my projects.<br>Database optimization techniques for scalable applications.<br>💬 Ask me about<br>Web development with MERN stack.<br>Building structured programming tutorials.<br>AI-powered applications and image generation.<br>⚡ Fun fact<br>I started coding as a hobby and ended up building full-fledged platforms 🚀.<br>I enjoy tweaking dark-themed UIs to perfection 🌑.
 
